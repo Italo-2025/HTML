@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    background-color:wheat;
+    border-radius: 20px;
+}
+
+section {
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 400px;
+    height: 150px;
+    margin: auto;
+    
+    ;
+}
+
+button {
+    background-color: rgb(113, 221, 113);
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+}

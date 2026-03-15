@@ -1,0 +1,31 @@
+section {
+    background-color:beige;
+    border: solid black 3px;
+    padding: 10px;
+    margin: 10px;
+}
+form{
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+   border: solid black 5px;
+   padding: 0px;
+   margin: 0px;
+   background-color:blanchedalmond;
+}
+
+button {
+    background-color:#45a049; ;
+    border: solid black 2px;
+    padding: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(162, 233, 162)    /* Escurece um pouco ao passar o mouse */
+}
