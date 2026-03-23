@@ -27,5 +27,5 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background-color: rgb(162, 233, 162)    /* Escurece um pouco ao passar o mouse */
+    background-color: rgb(162, 233, 162)    /* Clareia um pouco ao passar o mouse */
 }
